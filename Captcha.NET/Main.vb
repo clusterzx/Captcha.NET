@@ -1,4 +1,13 @@
-﻿Imports System.Drawing.Drawing2D
+'    ................................................................                                                                
+'   |----------------------------------------------------------------|
+'   | LICENSE : MIT https://choosealicense.com/licenses/mit/         |
+'   | DATE : 10.09.2018                                              |
+'   | WEBSITE : https://bech0r.net                                   |
+'   | GITHUB : https://github.com/clusterzx                          |
+'   |----------------------------------------------------------------|
+'    """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Imports System.Drawing.Drawing2D
 Imports System.Security.Cryptography
 Imports System.Text
 Public Class CaptchaNET
