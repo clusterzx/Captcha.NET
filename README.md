@@ -1,15 +1,15 @@
 # Captcha .NET
-Captcha .NET is a simple but yet powerfull captcha system for .NET applications.
-
-  - Easy to implement 3 Lines of code
-  - Fast
-  - memory friendly
+Captcha .NET is a simple and small captcha system for .NET applications.
 
 # New Features!
 
   - Choose between 3 captcha difficultys
   - Easy input check
- 
+  
+# How to use it!
+  - Import CaptchaNET
+  - Dim captcha as New CaptchaNET
+  - Captcha.GenerateCaptcha(CaptchaNET.difficulty.easy , PictureBox1)
 
 License
 ----
